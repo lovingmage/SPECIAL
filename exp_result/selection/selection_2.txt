@@ -1,0 +1,46 @@
+int rel_sz = 1 << 14;
+int sel_sz = 1 << 4;
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_selection 1 1234 & ./bin/exp_selection 2 1234
+[1] 57953
+connected
+connected
+Standard Selection Results:
+---------
+Output size: (Memory size of the total input data): 786432 bytes
+Execution time: 425 milliseconds
+
+Standard Selection Results:
+---------
+Output size: (Memory size of the total input data): 786432 bytes
+Execution time: 415 milliseconds
+
+OPac Selection Results:
+---------
+Output size: (Memory size of the total input data): 768 bytes
+Execution time: 3775 milliseconds
+
+DC Selection Results:
+---------
+Output size: (Memory size of the total input data): 768 bytes
+Execution time: 0 milliseconds
+
+OPac Selection Results:
+---------
+Output size: (Memory size of the total input data): 768 bytes
+Execution time: 3837 milliseconds
+
+DC Selection Results:
+---------
+Output size: (Memory size of the total input data): 768 bytes
+Execution time: 0 milliseconds
+
+SP Selection Results:
+---------
+Output size: (Memory size of the total input data): 768 bytes
+Execution time: 697 milliseconds
+
+[1]  + done       ./bin/exp_selection 1 1234
+SP Selection Results:
+---------
+Output size: (Memory size of the total input data): 768 bytes
+Execution time: 670 milliseconds

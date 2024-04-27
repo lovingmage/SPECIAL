@@ -1,0 +1,55 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q4_eps 1 1235 & ./bin/exp_q4_eps 2 1235
+[3] 57005
+connected
+connected
+Results:
+---------
+Memory size for the query plan: 448080 bytes
+Execution time: 239370 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 448080 bytes
+Execution time: 239381 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 433320 bytes
+Execution time: 196398 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 433320 bytes
+Execution time: 196399 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 427800 bytes
+Execution time: 158388 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 427800 bytes
+Execution time: 158389 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 424728 bytes
+Execution time: 147642 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 424440 bytes
+Execution time: 145074 milliseconds
+
+Results:
+---------
+Memory size for the query plan: 424440 bytes
+Execution time: 145074 milliseconds
+
+
+[3]  - done       ./bin/exp_q4_eps 1 1235
+Results:
+---------
+Memory size for the query plan: 424728 bytes
+Execution time: 147640 milliseconds

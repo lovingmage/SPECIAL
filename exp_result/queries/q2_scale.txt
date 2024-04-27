@@ -1,0 +1,44 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q2_scale 1 1235 & ./bin/exp_q2_scale 2 1235
+[1] 51638
+connected
+connected
+Results for scale = 1x:
+---------------------
+Memory size: 4176 bytes
+Execution time: 3 milliseconds
+
+Results for scale = 1x:
+---------------------
+Memory size: 4176 bytes
+Execution time: 6 milliseconds
+
+Results for scale = 64x:
+---------------------
+Memory size: 264240 bytes
+Execution time: 99 milliseconds
+
+Results for scale = 64x:
+---------------------
+Memory size: 264240 bytes
+Execution time: 101 milliseconds
+
+Results for scale = 128x:
+---------------------
+Memory size: 528432 bytes
+Execution time: 153 milliseconds
+
+Results for scale = 128x:
+---------------------
+Memory size: 528432 bytes
+Execution time: 156 milliseconds
+
+Results for scale = 256x:
+---------------------
+Memory size: 1056816 bytes
+Execution time: 303 milliseconds
+
+[1]  - done       ./bin/exp_q2_scale 1 1235
+Results for scale = 256x:
+---------------------
+Memory size: 1056816 bytes
+Execution time: 299 milliseconds

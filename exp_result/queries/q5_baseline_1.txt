@@ -1,0 +1,32 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q5_a 1 1234 & ./bin/exp_q5_a 2 1234
+[1] 74895
+connected
+connected
+Init completed
+Init completed
+Results:
+---------
+Memory size for the join: 2954682360 bytes
+Execution time:
+First Join Duration: 1160 milliseconds
+Second Join Duration: 209666 milliseconds
+Overall Duration: 211213 milliseconds
+Projected times:
+Projected First Join Duration for Full Data: 116000 milliseconds
+Projected Second Join Duration for Full Data: 20966600 milliseconds
+Projected Total Duration for Full Data: 21082600 milliseconds
+Projected memory size for the join: 292388065200 bytes
+Results:
+---------
+Memory size for the join: 2954682360 bytes
+Execution time:
+First Join Duration: 23240 milliseconds
+Second Join Duration: 187696 milliseconds
+Overall Duration: 211225 milliseconds
+Projected times:
+Projected First Join Duration for Full Data: 2324000 milliseconds
+Projected Second Join Duration for Full Data: 18769600 milliseconds
+Projected Total Duration for Full Data: 210936000 milliseconds
+Projected memory size for the join: 292388065200 bytes
+cw166-admin@sice-mbp-986713 caplan %
+[1]  + done       ./bin/exp_q5_a 1 1234

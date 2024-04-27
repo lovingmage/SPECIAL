@@ -1,0 +1,16 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q4 1 1235 & ./bin/exp_q4 2 1235
+[3] 1305
+connected
+connected
+Results:
+---------
+Memory size for the query plan: 424440 bytes
+Execution time: 143563 milliseconds
+
+[3]  - done       ./bin/exp_q4 1 1235
+Results:
+---------
+Memory size for the query plan: 424440 bytes
+Execution time: 143572 milliseconds
+
+cw166-admin@sice-mbp-986713 caplan %

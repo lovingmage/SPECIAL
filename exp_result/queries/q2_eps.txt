@@ -1,0 +1,49 @@
+Results for epsilon = 10:
+---------------------
+Memory size: 4176 bytes
+Execution time: 4 milliseconds
+
+Results for epsilon = 10:
+---------------------
+Memory size: 4176 bytes
+Execution time: 5 milliseconds
+
+Results for epsilon = 1:
+---------------------
+Memory size: 4560 bytes
+Execution time: 6 milliseconds
+
+Results for epsilon = 1:
+---------------------
+Memory size: 4560 bytes
+Execution time: 6 milliseconds
+
+Results for epsilon = 0.5:
+---------------------
+Memory size: 5136 bytes
+Execution time: 5 milliseconds
+
+Results for epsilon = 0.5:
+---------------------
+Memory size: 5136 bytes
+Execution time: 5 milliseconds
+
+Results for epsilon = 0.2:
+---------------------
+Memory size: 5712 bytes
+Execution time: 5 milliseconds
+
+Results for epsilon = 0.2:
+---------------------
+Memory size: 5712 bytes
+Execution time: 5 milliseconds
+
+Results for epsilon = 0.1:
+---------------------
+Memory size: 6864 bytes
+Execution time: 7 milliseconds
+
+Results for epsilon = 0.1:
+---------------------
+Memory size: 6864 bytes
+Execution time: 7 milliseconds

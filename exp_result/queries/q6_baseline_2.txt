@@ -1,0 +1,25 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q6_b 1 1234 & ./bin/exp_q6_b 2 1234
+[1] 2496
+connected
+connected
+Init completed
+Init completed
+Filter completed
+Filter completed
+Join I total memory 3140612208 bytes
+Join I total memory 3140612208 bytes
+Join I completed in 57816317 milliseconds
+Join I completed in 57835056 milliseconds
+Results:
+---------
+Memory size (query plan): 3354165360 bytes
+Execution time: 58342386 milliseconds
+
+Results:
+---------
+Memory size (query plan): 3354165360 bytes
+Execution time: 58342782 milliseconds
+
+cw166-admin@sice-mbp-986713 caplan %
+[1]  + done       ./bin/exp_q6_b 1 1234
+cw166-admin@sice-mbp-986713 caplan %

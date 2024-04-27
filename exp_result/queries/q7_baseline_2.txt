@@ -1,0 +1,23 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q7_b 1 1234 & ./bin/exp_q7_b 2 1234
+[1] 68831
+connected
+connected
+Init completed
+Init completed
+Filter completed
+Join II completed in 57816317 milliseconds
+Filter completed
+Join II completed in 57816317 milliseconds
+Join II completed in 2827331 milliseconds
+Join II completed in 2828068 milliseconds
+Results:
+---------
+Memory size (query plan): 3436906560 bytes
+Execution time: 63123344 milliseconds
+
+Results:
+---------
+Memory size (query plan): 3436906560 bytes
+Execution time: 63123774 milliseconds
+
+[1]  + done       ./bin/exp_q7_b 1 1234

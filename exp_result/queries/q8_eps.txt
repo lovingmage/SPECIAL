@@ -1,0 +1,55 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q8_eps 1 1235 & ./bin/exp_q8_eps 2 1235
+[3] 45411
+connected
+connected
+Results:
+---------
+Memory size (query plan): 13316976 bytes
+Index EquiJoin execution time: 3345941 milliseconds
+
+Results:
+---------
+Memory size (query plan): 13316976 bytes
+Index EquiJoin execution time: 3345993 milliseconds
+
+Results:
+---------
+Memory size (query plan): 9097152 bytes
+Index EquiJoin execution time: 2093380 milliseconds
+
+Results:
+---------
+Memory size (query plan): 9097152 bytes
+Index EquiJoin execution time: 2093365 milliseconds
+
+Results:
+---------
+Memory size (query plan): 6371088 bytes
+Index EquiJoin execution time: 1423213 milliseconds
+
+Results:
+---------
+Memory size (query plan): 6371088 bytes
+Index EquiJoin execution time: 1423209 milliseconds
+
+Results:
+---------
+Memory size (query plan): 4247328 bytes
+Index EquiJoin execution time: 1001481 milliseconds
+
+Results:
+---------
+Memory size (query plan): 4247328 bytes
+Index EquiJoin execution time: 1001473 milliseconds
+
+Results:
+---------
+Memory size (query plan): 3835464 bytes
+Index EquiJoin execution time: 1017355 milliseconds
+
+Results:
+---------
+Memory size (query plan): 3835464 bytes
+Index EquiJoin execution time: 1017349 milliseconds
+
+[3]  - done       ./bin/exp_q8_eps 1 1235

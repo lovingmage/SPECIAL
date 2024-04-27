@@ -1,0 +1,15 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q6 1 1235 & ./bin/exp_q6 2 1235
+[3] 7565
+connected
+connected
+Results:
+---------
+Memory size (query plan): 5651880 bytes
+Index EquiJoin execution time: 1893004 milliseconds
+
+Results:
+---------
+Memory size (query plan): 5651880 bytes
+Index EquiJoin execution time: 1893022 milliseconds
+
+[3]  - done       ./bin/exp_q6 1 1235

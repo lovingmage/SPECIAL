@@ -1,0 +1,28 @@
+cw166-admin@sice-mbp-986713 caplan % ./bin/exp_q8_scale 1 1235 & ./bin/exp_q8_scale 2 1235
+[1] 46035
+connected
+connected
+Number of rows for final join: 270496
+Number of rows for final join: 270496
+Results:
+---------
+Memory size (query plan): 41264976 bytes
+Index EquiJoin execution time: 3444690 milliseconds
+
+Results:
+---------
+Memory size (query plan): 41264976 bytes
+Index EquiJoin execution time: 3444790 milliseconds
+
+Number of rows for final join: 1419936
+Number of rows for final join: 1419936
+Results:
+---------
+Memory size (query plan): 210199728 bytes
+Index EquiJoin execution time: 17036028 milliseconds
+
+Results:
+---------
+Memory size (query plan): 210199728 bytes
+Index EquiJoin execution time: 17036481 milliseconds
+
